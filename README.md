@@ -51,7 +51,7 @@ Current result:
 - Average field enhancement = approximately 3.10x
 - Maximum local field enhancement = approximately 6.48x
 
-- ## Software
+## Software
 
 - Windows
 - ANSYS Electronics Desktop Student 2025 R2
